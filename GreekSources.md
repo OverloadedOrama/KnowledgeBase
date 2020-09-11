@@ -16,4 +16,5 @@
 - [SocialNerds](https://www.youtube.com/channel/UCd5jW000te6bExqYth4TIxQ) - Παρουσιάσεις και σχολιασμός πάνω σε διάφορες τεχνολογίες γύρω από τον προγραμματισμό
 - [Tech and Code in Greek](https://www.youtube.com/c/TechandCodeInGreek) - Τεχνολογία και προγραμματισμός
 - [PCsteps.gr](https://www.youtube.com/c/PCstepsGr) - Τεχνολογία
+- [EverDuzk Productions](https://www.youtube.com/user/EverDuzkProductions) - Τεχνολογία
 - [Filos](https://www.youtube.com/channel/UCpf4auNhcYSKlqHkYKH4aFQ) - Τεχνολογία
