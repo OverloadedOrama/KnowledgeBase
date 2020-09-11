@@ -46,6 +46,7 @@ A list of educational sources, such as YouTube channels and websites
 ## Programming - Computer Science
 - [Computerphile](https://www.youtube.com/user/Computerphile)
 - https://www.learncpp.com/
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [The Cherno](https://www.youtube.com/user/TheChernoProject) - includes series dedicated to C++, OpenGL and Game Engine development
 - [Derek Banas](https://www.youtube.com/user/derekbanas)
 
