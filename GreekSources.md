@@ -1,0 +1,13 @@
+- [The Skeptic Theory](https://www.youtube.com/channel/UCx-_VqUm2Lj1GJjNBLRUS2Q) - επιστήμη και ορθολογισμός
+- [Astronio](https://www.youtube.com/channel/UCYhH65nE2M8rGwMWvAlVu2A) - Αστρονομία
+- [The Mad Sc1ent1st](https://www.youtube.com/channel/UCsV_xDVe9DUY7xXq0rezB9g)
+- [Καθημερινή Φυσική](https://www.youtube.com/c/%CE%9A%CE%B1%CE%B8%CE%B7%CE%BC%CE%B5%CF%81%CE%B9%CE%BD%CE%AE%CE%A6%CF%85%CF%83%CE%B9%CE%BA%CE%AE)
+- [Tech to me about it](https://www.youtube.com/c/TechtomeAboutit) - Πληροφορική και Τεχνητή Νοημοσύνη
+- [SciTalksGR](https://www.youtube.com/channel/UCUiXbkWQPwr7CBVJOFktYzg) - Μηνιαίες ζωντανές συζητήσεις για θέματα επιστήμης (και όχι μόνο)
+- [SciTalksGR on Spotify](https://open.spotify.com/show/43RABr3QTJPkUPxtYLwnh9)
+- [Human Nature](https://www.youtube.com/channel/UC5_cOGjJLcGtAReRVqNctKw) - Ανθρώπινη Βιολογία
+- [Science Behind Music](https://www.youtube.com/channel/UCUvn6Rx9RA__wXipJII3h_Q) - Επιστημονικές πτυχές της μουσικής
+- [Biotech Guy](https://www.youtube.com/c/BiotechGuyScienceForAll) - Βιολογία
+- [Smart Chemistry](https://www.youtube.com/c/SmartChemistry) - Χημεία
+- [Rogue Astrophysics](https://www.youtube.com/c/RogueAstrophysics) - Αστρονομία
+- [Σταύρος Λουβερδής - απλά η Φυσική](https://www.youtube.com/user/stavros6462) - Φυσική
