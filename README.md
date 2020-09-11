@@ -3,7 +3,7 @@ A list of educational sources, such as YouTube channels and websites
 
 [>> Click here for extra Greek sources!](https://github.com/OverloadedOrama/KnowledgeBase/blob/master/GreekSources.md)
 
-[My "Must Watch Videos" YouTube Playlist](https://www.youtube.com/playlist?list=PL-xVVvo0UaT97wAE-bc9NgAC7UZplVEHK)
+[>> My "Must Watch Videos" YouTube Playlist](https://www.youtube.com/playlist?list=PL-xVVvo0UaT97wAE-bc9NgAC7UZplVEHK)
 
 ## General Knowledge
 - [VSauce](https://www.youtube.com/c/vsauce1)
