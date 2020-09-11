@@ -1,10 +1,15 @@
 # Knowledge Base
 A list of educational sources, such as YouTube channels and websites
+[>> Click here for extra Greek sources!](https://github.com/OverloadedOrama/KnowledgeBase/blob/master/GreekSources.md)
 
 ## General Knowledge
+- [VSauce](https://www.youtube.com/c/vsauce1)
+- [VSauce2](https://www.youtube.com/c/Vsauce2)
+- [VSauce3](https://www.youtube.com/c/Vsauce3)
 - [Crash Course](https://www.youtube.com/user/crashcourse) - A huge variety of courses including Computer Science, Chemistry, Astronomy, Artificial Intelligence, Psychology, History (World, Big, European), Mythology, Games, Intellectual Property, Business Entrepreneurship, Literature, Statitics and more
 - [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
 - [CGP Grey](https://www.youtube.com/user/CGPGrey)
+- [Veritasium](https://www.youtube.com/c/veritasium)
 - [Thoughty2](https://www.youtube.com/user/Thoughty2)
 - [Joe Scott](https://www.youtube.com/user/jnightandday)
 - [exurb1a](https://www.youtube.com/user/willunicycleforfood)
@@ -27,10 +32,14 @@ A list of educational sources, such as YouTube channels and websites
 - [Brackeys](https://www.youtube.com/user/Brackeys)
 
 
-## Programming
+## Programming - Computer Science
+- [Computerphile](https://www.youtube.com/user/Computerphile)
 - https://www.learncpp.com/
 - [The Cherno](https://www.youtube.com/user/TheChernoProject) - includes series dedicated to C++, OpenGL and Game Engine development
 - [Derek Banas](https://www.youtube.com/user/derekbanas)
+
+## Mathematics
+- [Numberphile](https://www.youtube.com/user/numberphile)
 
 
 ## Art
