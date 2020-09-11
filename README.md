@@ -6,6 +6,7 @@ A list of educational sources, such as YouTube channels and websites
 [>> My "Must Watch Videos" YouTube Playlist](https://www.youtube.com/playlist?list=PL-xVVvo0UaT97wAE-bc9NgAC7UZplVEHK)
 
 ## General Knowledge
+- [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) - The free encyclopedia
 - [VSauce](https://www.youtube.com/c/vsauce1)
 - [VSauce2](https://www.youtube.com/c/Vsauce2)
 - [VSauce3](https://www.youtube.com/c/Vsauce3)
@@ -13,9 +14,12 @@ A list of educational sources, such as YouTube channels and websites
 - [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
 - [CGP Grey](https://www.youtube.com/user/CGPGrey)
 - [Veritasium](https://www.youtube.com/c/veritasium)
+- [TED-Ed](https://www.youtube.com/user/TEDEducation)
 - [Thoughty2](https://www.youtube.com/user/Thoughty2)
 - [Joe Scott](https://www.youtube.com/user/jnightandday)
 - [exurb1a](https://www.youtube.com/user/willunicycleforfood)
+- [The Infographics Show](https://www.youtube.com/user/TheInfographicsShow)
+- [RealLifeLore](https://www.youtube.com/c/RealLifeLore)
 
 
 ## Game Development
@@ -43,7 +47,8 @@ A list of educational sources, such as YouTube channels and websites
 
 ## Mathematics
 - [Numberphile](https://www.youtube.com/user/numberphile)
-
+- [Eddie Woo](https://www.youtube.com/user/misterwootube)
+- [John Hush](https://www.youtube.com/user/mrjohnhush)
 
 ## Art
 ### General
@@ -51,3 +56,14 @@ A list of educational sources, such as YouTube channels and websites
 
 ### Pixel Art
 - [MortMort](https://www.youtube.com/user/atMNRArt)
+
+## History - Historical Accuracy
+- [Extra Credits](https://www.youtube.com/user/ExtraCreditz) - They have history series called "Extra History"
+- [OverSimplified](https://www.youtube.com/user/Webzwithaz)
+- [Epic History TV](https://www.youtube.com/channel/UCvPXiKxH-eH9xq-80vpgmKQ)
+- [Shadiversity](https://www.youtube.com/user/shadmbrooks) - Medieval accuracy
+- [Skallagrim](https://www.youtube.com/user/SkallagrimNilsson) - Historical arms and armor
+- [The Armchair Historian](https://www.youtube.com/channel/UCeUJFQ0D9qs6aVNyUt9fkeQ)
+- [Simple History](https://www.youtube.com/c/Simplehistory/videos)
+- [Suibhne](https://www.youtube.com/c/Suibhne)
+- [BazBattles](https://www.youtube.com/c/BazBattles) - Animated historical and fictional battles
