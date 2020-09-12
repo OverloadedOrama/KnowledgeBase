@@ -52,12 +52,14 @@ A list of educational sources, such as YouTube channels and websites
 
 ## Mathematics
 - [Numberphile](https://www.youtube.com/user/numberphile)
+- [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 - [Eddie Woo](https://www.youtube.com/user/misterwootube)
 - [John Hush](https://www.youtube.com/user/mrjohnhush)
 
 ## Art
 ### General
 - [Jazza](https://www.youtube.com/user/DrawWithJazza)
+- [Jenna Drawing](https://www.youtube.com/user/JennaDrawing)
 
 ### Pixel Art
 - [MortMort](https://www.youtube.com/user/atMNRArt)
