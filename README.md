@@ -74,3 +74,4 @@ A list of educational sources, such as YouTube channels and websites
 - [Simple History](https://www.youtube.com/c/Simplehistory/videos)
 - [Suibhne](https://www.youtube.com/c/Suibhne)
 - [BazBattles](https://www.youtube.com/c/BazBattles) - Animated historical and fictional battles
+- [Knowledgia](https://www.youtube.com/c/Knowledgia)
