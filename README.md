@@ -5,7 +5,7 @@ A list of educational sources, such as YouTube channels and websites
 
 [>> My "Must Watch Videos" YouTube Playlist](https://www.youtube.com/playlist?list=PL-xVVvo0UaT97wAE-bc9NgAC7UZplVEHK)
 
-## General Knowledge
+## General/Misc Knowledge
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) - The free encyclopedia
 - [VSauce](https://www.youtube.com/c/vsauce1)
 - [VSauce2](https://www.youtube.com/c/Vsauce2)
