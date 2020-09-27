@@ -10,7 +10,7 @@ A list of educational sources, such as YouTube channels and websites
 - [VSauce](https://www.youtube.com/c/vsauce1)
 - [VSauce2](https://www.youtube.com/c/Vsauce2)
 - [VSauce3](https://www.youtube.com/c/Vsauce3)
-- [Crash Course](https://www.youtube.com/user/crashcourse) - A huge variety of courses including Computer Science, Chemistry, Astronomy, Artificial Intelligence, Psychology, History (World, Big, European), Mythology, Games, Intellectual Property, Business Entrepreneurship, Literature, Statitics and more
+- [Crash Course](https://www.youtube.com/user/crashcourse) - A huge variety of courses including Computer Science, Chemistry, Astronomy, Artificial Intelligence, Psychology, History (World, Big, European and others), Mythology, Games, Intellectual Property, Business Entrepreneurship, Literature, Statistics and more
 - [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
 - [CGP Grey](https://www.youtube.com/user/CGPGrey)
 - [Veritasium](https://www.youtube.com/c/veritasium)
