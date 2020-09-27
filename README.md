@@ -20,6 +20,7 @@ A list of educational sources, such as YouTube channels and websites
 - [exurb1a](https://www.youtube.com/user/willunicycleforfood)
 - [Domain of Science](https://www.youtube.com/c/DomainofScience)
 - [Two Minute Papers](https://www.youtube.com/c/K%C3%A1rolyZsolnai)
+- [Sciencephile the AI](https://www.youtube.com/c/SciencephiletheAI)
 - [The Infographics Show](https://www.youtube.com/user/TheInfographicsShow)
 - [AsapSCIENCE](https://www.youtube.com/user/AsapSCIENCE)
 - [RealLifeLore](https://www.youtube.com/c/RealLifeLore)
