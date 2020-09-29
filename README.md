@@ -25,6 +25,7 @@ A list of educational sources, such as YouTube channels and websites
 - [AsapSCIENCE](https://www.youtube.com/user/AsapSCIENCE)
 - [RealLifeLore](https://www.youtube.com/c/RealLifeLore)
 - [Kyle Hill](https://www.youtube.com/c/KyleHillScience)
+- [Dr. Masi](https://www.youtube.com/c/DrMasi)
 
 
 ## Game Development
