@@ -58,6 +58,9 @@ A list of educational sources, such as YouTube channels and websites
 - [Eddie Woo](https://www.youtube.com/user/misterwootube)
 - [John Hush](https://www.youtube.com/user/mrjohnhush)
 
+## Physics
+- [minutephysics](https://www.youtube.com/user/minutephysics)
+
 ## Art
 ### General
 - [Jazza](https://www.youtube.com/user/DrawWithJazza)
