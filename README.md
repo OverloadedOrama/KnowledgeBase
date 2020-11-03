@@ -60,6 +60,7 @@ A list of educational sources, such as YouTube channels and websites
 
 ## Physics
 - [minutephysics](https://www.youtube.com/user/minutephysics)
+- [Arvin Ash](https://www.youtube.com/c/ArvinAsh/)
 
 ## Art
 ### General
