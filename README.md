@@ -62,6 +62,9 @@ A list of educational sources, such as YouTube channels and websites
 - [minutephysics](https://www.youtube.com/user/minutephysics)
 - [Arvin Ash](https://www.youtube.com/c/ArvinAsh/)
 
+## Simulations
+- [Primer](https://www.youtube.com/c/PrimerLearning/)
+
 ## Art
 ### General
 - [Jazza](https://www.youtube.com/user/DrawWithJazza)
