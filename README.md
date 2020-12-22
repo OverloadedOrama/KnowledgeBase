@@ -61,6 +61,7 @@ A list of educational sources, such as YouTube channels and websites
 ## Physics
 - [minutephysics](https://www.youtube.com/user/minutephysics)
 - [Arvin Ash](https://www.youtube.com/c/ArvinAsh/)
+- [PBS Space Time](https://www.youtube.com/c/pbsspacetime)
 
 ## Simulations
 - [Primer](https://www.youtube.com/c/PrimerLearning/)
@@ -76,6 +77,7 @@ A list of educational sources, such as YouTube channels and websites
 ## History - Historical Accuracy
 - [Extra Credits](https://www.youtube.com/user/ExtraCreditz) - They have history series called "Extra History"
 - [OverSimplified](https://www.youtube.com/user/Webzwithaz)
+- [Origin of Everything](https://www.youtube.com/c/pbsoriginofeverything)
 - [Epic History TV](https://www.youtube.com/channel/UCvPXiKxH-eH9xq-80vpgmKQ)
 - [Shadiversity](https://www.youtube.com/user/shadmbrooks) - Medieval accuracy
 - [Skallagrim](https://www.youtube.com/user/SkallagrimNilsson) - Historical arms and armor
