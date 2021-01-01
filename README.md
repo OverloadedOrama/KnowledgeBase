@@ -5,6 +5,21 @@ A list of educational sources, such as YouTube channels and websites
 
 [>> My "Must Watch Videos" YouTube Playlist](https://www.youtube.com/playlist?list=PL-xVVvo0UaT97wAE-bc9NgAC7UZplVEHK)
 
+## Contents
+- [General/Misc Knowledge](#generalmisc-knowledge)
+- [Game Development](#game-development)
+  - [General](#general)
+  - [Godot Engine](#godot-engine)
+  - [Unity](#unity)
+- [Programming - Computer Science](#programming---computer-science)
+- [Mathematics](#mathematics)
+- [Physics](#physics)
+- [Simulations](#simulations)
+- [Art](#art)
+  - [General](#general-1)
+  - [Pixel Art](#pixel-art)
+- [History - Historical Accuracy](#history---historical-accuracy)
+
 ## General/Misc Knowledge
 - [Wikipedia](https://en.wikipedia.org/wiki/Main_Page) - The free encyclopedia
 - [VSauce](https://www.youtube.com/c/vsauce1)
