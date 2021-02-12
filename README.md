@@ -71,6 +71,7 @@ A list of educational sources, such as YouTube channels and websites
 - [Numberphile](https://www.youtube.com/user/numberphile)
 - [3Blue1Brown](https://www.youtube.com/c/3blue1brown)
 - [Eddie Woo](https://www.youtube.com/user/misterwootube)
+- [Tibees](https://www.youtube.com/user/tibees)
 - [John Hush](https://www.youtube.com/user/mrjohnhush)
 
 ## Physics
