@@ -78,6 +78,7 @@ A list of educational sources, such as YouTube channels and websites
 - [minutephysics](https://www.youtube.com/user/minutephysics)
 - [Arvin Ash](https://www.youtube.com/c/ArvinAsh/)
 - [PBS Space Time](https://www.youtube.com/c/pbsspacetime)
+- [ScienceClic](https://www.youtube.com/c/ScienceClicEN)
 
 ## Simulations
 - [Primer](https://www.youtube.com/c/PrimerLearning/)
