@@ -73,6 +73,7 @@ A list of educational sources, such as YouTube channels and websites
 - [Eddie Woo](https://www.youtube.com/user/misterwootube)
 - [Tibees](https://www.youtube.com/user/tibees)
 - [John Hush](https://www.youtube.com/user/mrjohnhush)
+- [Mario's Math Tutoring](https://www.youtube.com/c/MariosMathTutoring)
 
 ## Physics
 - [minutephysics](https://www.youtube.com/user/minutephysics)
