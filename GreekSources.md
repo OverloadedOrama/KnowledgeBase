@@ -18,3 +18,4 @@
 - [PCsteps.gr](https://www.youtube.com/c/PCstepsGr) - Τεχνολογία
 - [EverDuzk Productions](https://www.youtube.com/user/EverDuzkProductions) - Τεχνολογία
 - [Filos](https://www.youtube.com/channel/UCpf4auNhcYSKlqHkYKH4aFQ) - Τεχνολογία
+- [Nihilist's Lab](https://www.youtube.com/c/GiannisMamalikidis/) - Πληροφορική και Τεχνητή Νοημοσύνη
