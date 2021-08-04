@@ -66,6 +66,7 @@ A list of educational sources, such as YouTube channels and websites
 - [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
 - [The Cherno](https://www.youtube.com/user/TheChernoProject) - includes series dedicated to C++, OpenGL and Game Engine development
 - [Derek Banas](https://www.youtube.com/user/derekbanas)
+- [Jordan Harrod](https://www.youtube.com/c/JordanHarrod) - Informative videos on AI/Machine Learning
 
 ## Mathematics
 - [Numberphile](https://www.youtube.com/user/numberphile)
