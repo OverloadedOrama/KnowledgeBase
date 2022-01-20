@@ -30,6 +30,7 @@ A list of educational sources, such as YouTube channels and websites
 - [CGP Grey](https://www.youtube.com/user/CGPGrey)
 - [Veritasium](https://www.youtube.com/c/veritasium)
 - [TED-Ed](https://www.youtube.com/user/TEDEducation)
+- [Tom Scott](https://www.youtube.com/c/TomScottGo)
 - [Thoughty2](https://www.youtube.com/user/Thoughty2)
 - [Joe Scott](https://www.youtube.com/user/jnightandday)
 - [exurb1a](https://www.youtube.com/user/willunicycleforfood)
