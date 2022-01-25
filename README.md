@@ -14,6 +14,7 @@ A list of educational sources, such as YouTube channels and websites
 - [Programming - Computer Science](#programming---computer-science)
 - [Mathematics](#mathematics)
 - [Physics](#physics)
+- [Astronomy](#astronomy)
 - [Simulations](#simulations)
 - [Art](#art)
   - [General](#general-1)
@@ -82,6 +83,9 @@ A list of educational sources, such as YouTube channels and websites
 - [Arvin Ash](https://www.youtube.com/c/ArvinAsh/)
 - [PBS Space Time](https://www.youtube.com/c/pbsspacetime)
 - [ScienceClic](https://www.youtube.com/c/ScienceClicEN)
+
+## Astronomy
+- [Astrum](https://www.youtube.com/c/astrumspace)
 
 ## Simulations
 - [Primer](https://www.youtube.com/c/PrimerLearning/)
