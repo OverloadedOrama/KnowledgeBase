@@ -110,3 +110,6 @@ A list of educational sources, such as YouTube channels and websites
 - [Suibhne](https://www.youtube.com/c/Suibhne)
 - [BazBattles](https://www.youtube.com/c/BazBattles) - Animated historical and fictional battles
 - [Knowledgia](https://www.youtube.com/c/Knowledgia)
+
+## Psychology
+- [Georgia Dow](https://www.youtube.com/c/GeorgiaDow)
