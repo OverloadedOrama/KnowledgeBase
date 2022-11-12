@@ -83,6 +83,7 @@ A list of educational sources, such as YouTube channels and websites
 - [Arvin Ash](https://www.youtube.com/c/ArvinAsh/)
 - [PBS Space Time](https://www.youtube.com/c/pbsspacetime)
 - [ScienceClic](https://www.youtube.com/c/ScienceClicEN)
+- [Sabine Hossenfelder](https://www.youtube.com/c/SabineHossenfelder)
 
 ## Astronomy
 - [Astrum](https://www.youtube.com/c/astrumspace)
