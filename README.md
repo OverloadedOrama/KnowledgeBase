@@ -27,7 +27,7 @@ A list of educational sources, such as YouTube channels and websites
 - [VSauce2](https://www.youtube.com/c/Vsauce2)
 - [VSauce3](https://www.youtube.com/c/Vsauce3)
 - [Crash Course](https://www.youtube.com/user/crashcourse) - A huge variety of courses including Computer Science, Chemistry, Astronomy, Artificial Intelligence, Psychology, History (World, Big, European and others), Mythology, Games, Intellectual Property, Business Entrepreneurship, Literature, Statistics and more
-- [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt)
+- [Kurzgesagt](https://www.youtube.com/user/Kurzgesagt) - NOTE: Kurzgesagt has been known to often engage in [greenwashing](https://www.youtube.com/watch?v=uCuy1DaQzWI) and [billionaire propaganda](https://www.youtube.com/watch?v=HjHMoNGqQTI). This is most obvious in their climate change related videos, so I cannot recommend them fully. If you do decide to watch them, please take what they say with a grain of salt, and make sure you watch video responses, like the ones I linked. The rest of their science videos, such as their space and ant-related stuff, should most likely be fine to watch.
 - [CGP Grey](https://www.youtube.com/user/CGPGrey)
 - [Veritasium](https://www.youtube.com/c/veritasium)
 - [TED-Ed](https://www.youtube.com/user/TEDEducation)
